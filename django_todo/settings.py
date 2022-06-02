@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-xjfhux!ra7i8+sa#sy%+p$yxil^6(@z8r2%b_l$ndji9a111&1
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['https://maper-django-todo-app.herokuapp.com/']
+ALLOWED_HOSTS = ['maper-django-todo-app.herokuapp.com']
 
 
 # Application definition
